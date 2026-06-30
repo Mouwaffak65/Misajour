@@ -10,3 +10,14 @@
     "criteriaUrl": "https://github.com/Mouwaffak65/Misajour/raw/refs/heads/main/%D9%85%D8%B0%D9%83%D8%B1%D8%A9_%D9%81%D9%82%D9%87_%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85_%D9%88%D8%A7%D9%84%D8%AD%D8%AC.pdf "
   }
 ]
+
+{
+  "id": 11,
+  "type": "COURSE",
+  "title": "دورة تحليل البيانات بلغة Python",
+  "description": "تعلم كيفية التعامل مع البيانات الضخمة وتحليلها واستخراج النتائج باستخدام أشهر المكتبات البرمجية. الدورة مقدمة باللغة العربية بالكامل.",
+  "levelOrDate": "مستوى مبتدئ",
+  "deadlineOrTime": "الدراسة مفتوحة دائماً",
+  "url": "https://www.exemple-formation.com/python-data",
+  "criteriaUrl": null
+}
