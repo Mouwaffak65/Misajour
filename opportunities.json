@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "type": "SCHOLARSHIP",
+    "title": "منحة الحكومة التركية 2025",
+    "description": "منحة ممولة بالكامل تشمل السكن والتأمين الصحي وراتب شهري.",
+    "levelOrDate": "بكالوريوس، ماجستير، دكتوراه",
+    "deadlineOrTime": "15 فبراير 2025",
+    "url": "https://turkiyeburslari.gov.tr",
+    "criteriaUrl": "https://raw.githubusercontent.com/[USER]/[REPO]/main/pdfs/criteres_turquie.pdf"
+  }
+]
