@@ -18,5 +18,16 @@
     "deadlineOrTime": "مفتوحة دائماً",
     "url": "https://developer.android.com/courses",
     "criteriaUrl": null
+  },
+  {
+    "id": 3,
+    "type": "COURSE",
+    "title": " دورة في علم النفس التربوي  ",
+    "description": "تعلم أساسيات تطوير تطبيقات الأندرويد باستخدام لغة كوتلن الحديثة. دورة موجهة للمبتدئين تماماً.",
+    "levelOrDate": "01/07/2026 ",
+    "deadlineOrTime": "  10h30",
+    "url": "https://developer.android.com/courses",
+    "criteriaUrl": null
   }
+  
 ]
